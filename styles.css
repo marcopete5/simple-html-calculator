@@ -4,6 +4,7 @@ h1 {
 
 #calculator {
     display: flex;
+    justify-content: center;
 }
 
 #addition,
